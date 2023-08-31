@@ -2,9 +2,7 @@
 ## Live Site : https://cjpanda.github.io/landingpage_bank/
 ## Stack: React vitejs, Tailwindcss
 
-![Full Responsive Landing Page](https://github.com/cjpanda/landingpage_bank/assets/107156444/0a195acb-10a8-4c8a-a36d-70ae767e79b1)
-
-
+![Full Responsive Landing Page (1)](https://github.com/cjpanda/landingpage_bank/assets/107156444/3aed3111-5d22-4207-8324-03404c8601d0)
 
 
 
