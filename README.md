@@ -1,8 +1,10 @@
 # Fully Responsive Banking Card Landing Page
 ## Live Site : https://cjpanda.github.io/landingpage_bank/
+## Stack: React vitejs, Tailwindcss
 
-![Screenshot (110)](https://github.com/cjpanda/landingpage_bank/assets/107156444/23ef4fe7-21ee-42d0-8f6f-92411a7c775a)
-![Screenshot (109)](https://github.com/cjpanda/landingpage_bank/assets/107156444/574dd812-890e-4ff4-97cd-f0b9fca7b07c) 
+![Full Responsive Landing Page](https://github.com/cjpanda/landingpage_bank/assets/107156444/0a195acb-10a8-4c8a-a36d-70ae767e79b1)
+
+
 
 
 
