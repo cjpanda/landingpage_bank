@@ -1,8 +1,9 @@
-# React + Vite
+# Fully Responsive Banking Card Landing Page
+## Live Site : https://cjpanda.github.io/landingpage_bank/
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![Screenshot (110)](https://github.com/cjpanda/landingpage_bank/assets/107156444/23ef4fe7-21ee-42d0-8f6f-92411a7c775a)
+![Screenshot (109)](https://github.com/cjpanda/landingpage_bank/assets/107156444/574dd812-890e-4ff4-97cd-f0b9fca7b07c) 
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+Credit: this project was adapted from the great JSmastery
